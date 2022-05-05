@@ -22,7 +22,7 @@
     "url": "https://jubul.ar",
     "icon": "https://favicons.githubusercontent.com/jubul.ar",
     "slug": "juan-bulla-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 195,
     "timeMonth": 187,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   }
 ]
