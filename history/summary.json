@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 156,
-    "timeWeek": 130,
-    "timeMonth": 102,
-    "timeYear": 107,
+    "time": 100,
+    "timeDay": 388,
+    "timeWeek": 173,
+    "timeMonth": 112,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -23,21 +23,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/jubul.ar.ico",
     "slug": "juan-bulla-site",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "98.62%",
+    "uptimeDay": "81.12%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.62%",
     "time": 269,
-    "timeDay": 76,
-    "timeWeek": 174,
-    "timeMonth": 171,
+    "timeDay": 0,
+    "timeWeek": 168,
+    "timeMonth": 170,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-07-07": 0,
+      "2023-07-08": 110,
+      "2023-07-07": 162,
       "2022-07-25": 130,
-      "2022-07-09": 275,
-      "2022-07-08": 1440
+      "2022-07-09": 275
     }
   }
 ]
