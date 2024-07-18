@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 81,
-    "timeWeek": 95,
-    "timeMonth": 106,
+    "timeDay": 100,
+    "timeWeek": 97,
+    "timeMonth": 107,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jubul.ar.ico",
     "slug": "juan-bulla-site",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 182,
-    "timeWeek": 191,
-    "timeMonth": 204,
-    "timeYear": 218,
+    "timeDay": 274,
+    "timeWeek": 200,
+    "timeMonth": 208,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   }
 ]
