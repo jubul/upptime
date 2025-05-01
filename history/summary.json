@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 81,
-    "timeWeek": 101,
-    "timeMonth": 106,
+    "timeDay": 106,
+    "timeWeek": 96,
+    "timeMonth": 103,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2024-05-01": 41
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Juan Bulla Site",
@@ -31,10 +29,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "97.71%",
     "time": 224,
-    "timeDay": 148,
-    "timeWeek": 207,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "timeDay": 241,
+    "timeWeek": 211,
+    "timeMonth": 231,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2025-04-29": 74,
       "2025-04-28": 6,
