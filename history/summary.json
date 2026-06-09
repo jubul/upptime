@@ -30,16 +30,16 @@
     "url": "https://jubul.ar",
     "icon": "https://icons.duckduckgo.com/ip3/jubul.ar.ico",
     "slug": "juan-bulla-site",
-    "status": "down",
+    "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.87%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "98.85%",
     "time": 274,
-    "timeDay": 160,
-    "timeWeek": 208,
-    "timeMonth": 278,
+    "timeDay": 185,
+    "timeWeek": 211,
+    "timeMonth": 277,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2025-07-26": 26,
@@ -53,7 +53,7 @@
       "2025-11-01": 16,
       "2025-11-18": 162,
       "2025-11-26": 19,
-      "2026-06-09": 0
+      "2026-06-09": 121
     }
   }
 ]
